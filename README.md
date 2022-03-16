@@ -1,4 +1,4 @@
-## High School Sports
+## [High School Sports](https://www.theatlantic.com/education/archive/2013/09/when-did-competitive-sports-take-over-american-childhood/279868/)
 
 ### High School Career
 
