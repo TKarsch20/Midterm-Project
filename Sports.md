@@ -1,6 +1,6 @@
-## High School Sports
+## [High School Sports](https://www.theatlantic.com/education/archive/2013/09/when-did-competitive-sports-take-over-american-childhood/279868/)
 
-### High School Career
+### My High School Career
 
 #### During my high school years, I played three sports for the entire school year. The following shows the sports I played and what year I played them.
 
