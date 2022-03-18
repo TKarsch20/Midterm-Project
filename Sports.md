@@ -12,4 +12,4 @@
 
 **Senior Year:** During my senior year, the three sports I played were soccer, basketball, and track.
 
-[Home][Next](Dream Vacations.md)
+[Home]  [Next](Dream Vacations.md)
