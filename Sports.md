@@ -12,4 +12,4 @@
 
 **Senior Year:** During my senior year, the three sports I played were soccer, basketball, and track.
 
-[Home](https://github.com/TKarsch20/Midterm-Project/blob/01432e5d41afe3e2588cdeff497afeb665b2af7e/README.md)  [Back](https://github.com/TKarsch20/Midterm-Project/blob/01432e5d41afe3e2588cdeff497afeb665b2af7e/Hobbies.md)  [Next](https://github.com/TKarsch20/Midterm-Project/blob/ed8ea233183b4deee49602de7aba64a562ec37b4/Dream%20Vacations.md)
+[Home](README.md)  [Back](Hobbies.md)  [Next](DreamVacations.md)
