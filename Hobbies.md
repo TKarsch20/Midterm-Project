@@ -1,6 +1,6 @@
 # Hobbies
 
-[![alt text](https://www.bigstockphoto.com/image-131097725/stock-photo-hobbies-cloud-word-with-a-blue-sky)]
+[![alt text](https://static3.bigstockphoto.com/1/3/1/large2/131097725.jpg)]
 
 I have many hobbies. They include, but are not limited to:
 
