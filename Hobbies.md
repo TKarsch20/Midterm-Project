@@ -1,6 +1,6 @@
 # Hobbies
 
-[![alt text](https://static3.bigstockphoto.com/1/3/1/large2/131097725.jpg)]
+![alt text](https://static3.bigstockphoto.com/1/3/1/large2/131097725.jpg)
 
 I have many hobbies. They include, but are not limited to:
 
