@@ -1,5 +1,5 @@
 @@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Thatcher Karsch
 
 You can use the [editor on GitHub](https://github.com/TKarsch20/Midterm-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
