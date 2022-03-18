@@ -1,13 +1,11 @@
-@@ -1,37 +1,13 @@
-## Thatcher Karsch
 
-You can use the [editor on GitHub](https://github.com/TKarsch20/Midterm-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Thatcher Karsch. I am from a small town called Bonne Terre, Missouri. When I was younger, I wanted to be a genetic engineer after doing a project int the eighth grade. After going to college, I realized that is not what I wanted to do and started pursuing a career in the field of information technology. I have some prior experience from my early high school years and my military occupation also correlates to the IT field. I figured I would combine the two to further my knowledge and broaden the spectrum on which I was learning.
 
-### Markdown
+### Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Python is a coding language I started learning when I was 14 years old. I stopped practicing it after about a year but have recently started picking it back up for my college coursework. Below you will see a program I wrote to calculate the total estimated cost to coat a cylinder in paint.
 
 ```markdown
 import math
@@ -55,16 +53,5 @@ main ()
                 
 
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TKarsch20/Midterm-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
 
 [Next](NationalGuard.md)
