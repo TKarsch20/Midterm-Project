@@ -10,21 +10,50 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+import math
 
-# Header 1
-## Header 2
-### Header 3
+def get_nonnegative_float_from_user(prompt):
+    while True:
+        try:
+            input_value = float(input(prompt))
+            if (input_value < 0):
+                print("Only nonnegative values are allowed. Please re-enter the value.")
+                continue
+            break
+        except ValueError:
+            print("Please enter a nonnegative numerical value.")
+            continue
+    return input_value
 
-- Bulleted
-- List
+def perform_calculation():
+        radius = get_nonnegative_float_from_user("Enter the cylinder's radius: ")
+        height = get_nonnegative_float_from_user("Enter the cylinder's height: ")
 
-1. Numbered
-2. List
+        area = (2 * math.pi * radius * height + 2 * math.pi * radius **2)
+        print ("The area of the cylinder is" ,area, "feet^2.")
 
-**Bold** and _Italic_ and `Code` text
+        pints = (area / 5) 
+        (math.ceil(pints)) 
+        print ("There are" ,(math.floor(pints)), "pints required to coat the cylinder.") 
 
-[Link](url) and ![Image](src)
+        cost = (pints * 8.75)
+        (math.ceil (cost))
+        print ("The total cost will be $" ,(round (cost, 2)))
+
+def main():
+        print("This program calculates the cost of coating a cylinder along with the area and the number of pints required.")
+        while True:
+                perform_calculation()
+                response = input("Would you like to perform another calculation (y/n)? ")
+                if (response == "y"):
+                        print("")
+                        continue
+                else:
+                        break
+
+main ()
+                
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
