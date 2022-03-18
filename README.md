@@ -5,6 +5,8 @@ My name is Thatcher Karsch. I am from a small town called Bonne Terre, Missouri.
 
 ### Python
 
+[![alt text](Coding.jpg)]
+
 Python is a coding language I started learning when I was 14 years old. I stopped practicing it after about a year but have recently started picking it back up for my college coursework. Below you will see a program I wrote to calculate the total estimated cost to coat a cylinder in paint.
 
 ```markdown
