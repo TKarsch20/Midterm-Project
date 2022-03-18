@@ -12,4 +12,4 @@ I have many hobbies. They include, but are not limited to:
 I enjoy doing all of these things because they bring me joy and are relaxing to do
 
 
-[Home](https://github.com/TKarsch20/Midterm-Project/blob/61fe826a47df0a76e312172a54554d935f9eaeaa/README.md) [Next]
+[Home](README.md) [Next](Sports.md)
